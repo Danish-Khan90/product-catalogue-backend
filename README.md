@@ -33,9 +33,7 @@ Run the Gradle build process to compile the project and resolve dependencies:
 
 ```
 
-3- Run the Application
-
-Run the application using Spring Boot’s Gradle plugin:
+3- Run the application using Spring Boot’s Gradle plugin:
 
 ```
 ./gradlew bootRun
